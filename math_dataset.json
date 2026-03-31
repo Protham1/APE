@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "topic": "arithmetic",
+    "question": "A shopkeeper has 240 apples. He sells 3/4 of them and then receives a new shipment of 80 apples. How many apples does he have now?",
+    "answer": 140
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "topic": "arithmetic",
+    "question": "A train travels at 60 km/h. How far does it travel in 2 hours and 30 minutes?",
+    "answer": 150
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "topic": "arithmetic",
+    "question": "A rectangle has a length of 12 cm and a width of 7 cm. What is its perimeter?",
+    "answer": 38
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "topic": "algebra",
+    "question": "Solve for x: 3x + 7 = 22",
+    "answer": 5
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "topic": "probability",
+    "question": "A bag contains 4 red balls and 6 blue balls. What is the probability of picking a red ball? Express as a decimal.",
+    "answer": 0.4
+  },
+  {
+    "id": 6,
+    "difficulty": "medium",
+    "topic": "arithmetic",
+    "question": "A store is having a 30% off sale. After the discount, a jacket costs $84. What was the original price of the jacket?",
+    "answer": 120
+  },
+  {
+    "id": 7,
+    "difficulty": "medium",
+    "topic": "arithmetic",
+    "question": "Two pipes can fill a tank. Pipe A fills it in 6 hours, Pipe B fills it in 4 hours. How many hours will it take to fill the tank if both pipes are open simultaneously?",
+    "answer": 2.4
+  },
+  {
+    "id": 8,
+    "difficulty": "medium",
+    "topic": "algebra",
+    "question": "Solve for x: 2x² - 8 = 0. Give the positive value of x.",
+    "answer": 2
+  },
+  {
+    "id": 9,
+    "difficulty": "medium",
+    "topic": "algebra",
+    "question": "If f(x) = 3x² - 2x + 1, what is f(4)?",
+    "answer": 41
+  },
+  {
+    "id": 10,
+    "difficulty": "medium",
+    "topic": "algebra",
+    "question": "A system of equations: 2x + 3y = 12 and x - y = 1. What is the value of x?",
+    "answer": 3
+  },
+  {
+    "id": 11,
+    "difficulty": "medium",
+    "topic": "probability",
+    "question": "A fair six-sided die is rolled twice. What is the probability of getting a sum of 9? Express as a fraction in decimal form.",
+    "answer": 0.1111
+  },
+  {
+    "id": 12,
+    "difficulty": "medium",
+    "topic": "probability",
+    "question": "In a class of 30 students, 18 play cricket and 15 play football. 10 play both. How many students play neither sport?",
+    "answer": 7
+  },
+  {
+    "id": 13,
+    "difficulty": "medium",
+    "topic": "arithmetic",
+    "question": "A car depreciates in value by 15% each year. If it is currently worth $20,000, what will it be worth after 2 years? Round to the nearest dollar.",
+    "answer": 14450
+  },
+  {
+    "id": 14,
+    "difficulty": "medium",
+    "topic": "algebra",
+    "question": "The sum of three consecutive even integers is 78. What is the largest of the three integers?",
+    "answer": 28
+  },
+  {
+    "id": 15,
+    "difficulty": "medium",
+    "topic": "probability",
+    "question": "How many ways can a committee of 3 be chosen from a group of 8 people?",
+    "answer": 56
+  },
+  {
+    "id": 16,
+    "difficulty": "hard",
+    "topic": "algebra",
+    "question": "The roots of the equation x² - 5x + k = 0 are in the ratio 2:3. Find the value of k.",
+    "answer": 6
+  },
+  {
+    "id": 17,
+    "difficulty": "hard",
+    "topic": "arithmetic",
+    "question": "A boat travels 36 km upstream and 48 km downstream in the same amount of time. If the river current is 3 km/h, what is the speed of the boat in still water in km/h?",
+    "answer": 21
+  },
+  {
+    "id": 18,
+    "difficulty": "hard",
+    "topic": "probability",
+    "question": "A box has 5 red, 4 blue, and 3 green balls. Three balls are drawn at random without replacement. What is the probability that all three are different colors? Round to 4 decimal places.",
+    "answer": 0.2727
+  },
+  {
+    "id": 19,
+    "difficulty": "hard",
+    "topic": "probability",
+    "question": "In how many ways can the letters of the word MISSISSIPPI be arranged?",
+    "answer": 34650
+  },
+  {
+    "id": 20,
+    "difficulty": "hard",
+    "topic": "algebra",
+    "question": "If log(x) + log(x-3) = 1 (base 10), find the positive value of x.",
+    "answer": 5
+  }
+]
