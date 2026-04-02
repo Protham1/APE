@@ -1,0 +1,185 @@
+{
+  "prompt": "You are a math olympiad expert, think step by step",
+  "score": 0.95,
+  "correct": 19,
+  "total": 20,
+  "breakdown": {
+    "easy": {
+      "correct": 5,
+      "total": 5,
+      "score": 1.0
+    },
+    "medium": {
+      "correct": 10,
+      "total": 10,
+      "score": 1.0
+    },
+    "hard": {
+      "correct": 4,
+      "total": 5,
+      "score": 0.8
+    }
+  },
+  "results": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "topic": "arithmetic",
+      "expected": 140,
+      "predicted": 140.0,
+      "correct": true
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "topic": "arithmetic",
+      "expected": 150,
+      "predicted": 150.0,
+      "correct": true
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "topic": "arithmetic",
+      "expected": 38,
+      "predicted": 38.0,
+      "correct": true
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "topic": "algebra",
+      "expected": 5,
+      "predicted": 5.0,
+      "correct": true
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "topic": "probability",
+      "expected": 0.4,
+      "predicted": 0.4,
+      "correct": true
+    },
+    {
+      "id": 6,
+      "difficulty": "medium",
+      "topic": "arithmetic",
+      "expected": 120,
+      "predicted": 120.0,
+      "correct": true
+    },
+    {
+      "id": 7,
+      "difficulty": "medium",
+      "topic": "arithmetic",
+      "expected": 2.4,
+      "predicted": 2.4,
+      "correct": true
+    },
+    {
+      "id": 8,
+      "difficulty": "medium",
+      "topic": "algebra",
+      "expected": 2,
+      "predicted": 2.0,
+      "correct": true
+    },
+    {
+      "id": 9,
+      "difficulty": "medium",
+      "topic": "algebra",
+      "expected": 41,
+      "predicted": 41.0,
+      "correct": true
+    },
+    {
+      "id": 10,
+      "difficulty": "medium",
+      "topic": "algebra",
+      "expected": 3,
+      "predicted": 3.0,
+      "correct": true
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "topic": "probability",
+      "expected": 0.1111,
+      "predicted": 0.1111,
+      "correct": true
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "topic": "probability",
+      "expected": 7,
+      "predicted": 7.0,
+      "correct": true
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "topic": "arithmetic",
+      "expected": 14450,
+      "predicted": 14450.0,
+      "correct": true
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "topic": "algebra",
+      "expected": 28,
+      "predicted": 28.0,
+      "correct": true
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "topic": "probability",
+      "expected": 56,
+      "predicted": 56.0,
+      "correct": true
+    },
+    {
+      "id": 16,
+      "difficulty": "hard",
+      "topic": "algebra",
+      "expected": 6,
+      "predicted": 6.0,
+      "correct": true
+    },
+    {
+      "id": 17,
+      "difficulty": "hard",
+      "topic": "arithmetic",
+      "expected": 21,
+      "predicted": 21.0,
+      "correct": true
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "topic": "probability",
+      "expected": 0.2727,
+      "predicted": 0.2727,
+      "correct": true
+    },
+    {
+      "id": 19,
+      "difficulty": "hard",
+      "topic": "probability",
+      "expected": 34650,
+      "predicted": 6930.0,
+      "correct": false
+    },
+    {
+      "id": 20,
+      "difficulty": "hard",
+      "topic": "algebra",
+      "expected": 5,
+      "predicted": 5.0,
+      "correct": true
+    }
+  ]
+}
