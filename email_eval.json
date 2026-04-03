@@ -1,0 +1,16 @@
+{
+  "email": "hey send report fast",
+  "evaluation": {
+    "score": 0.2,
+    "clarity": 2,
+    "professionalism": 1,
+    "grammar": 3,
+    "tone": "informal",
+    "issues": [
+      "lacks proper greeting",
+      "too abrupt",
+      "missing context"
+    ],
+    "suggestion": "Add a greeting and specify which report you need."
+  }
+}

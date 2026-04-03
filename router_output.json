@@ -1,7 +1,7 @@
 {
-  "original_query": "what is 1+1",
-  "task_type": "math_qa",
-  "confidence": 1.0,
-  "reasoning": "The input is a simple arithmetic question asking for the sum of two numbers.",
-  "clean_query": "What is 1 + 1?"
+  "original_query": "write me an email for my office",
+  "task_type": "email_gen",
+  "confidence": 0.95,
+  "reasoning": "The user is requesting assistance in composing an email for their office.",
+  "clean_query": "Write me an email for my office."
 }
