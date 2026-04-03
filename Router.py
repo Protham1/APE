@@ -16,12 +16,14 @@ ROUTER_MODEL   = "gpt-4o-mini"          # cheapest; only does classification
 OUTPUT_FILE    = "router_output.json"   # consumed by next script in pipeline
 
 TASK_TYPES = ["math_qa", "email_gen"]   # extend this list as you add task types
+TASK_TYPES = ["math_qa", "email_gen", "email_eval"] 
 
 # ── Pydantic schema (enforces structured output) ─────────────────────────────
 
 class TaskType(str, Enum):
     math_qa   = "math_qa"
     email_gen = "email_gen"
+    email_eval = "email_eval"
 
 class RouterOutput(BaseModel):
     task_type  : TaskType
@@ -37,6 +39,7 @@ You are a task classifier for a prompt-routing system.
 Classify the user's input into exactly one of these task types:
 - math_qa   : any mathematical problem, calculation, word problem, algebra, arithmetic
 - email_gen : requests to write, draft, compose, or improve an email of any kind
+- email_eval : evaluate or review an email
 
 Respond ONLY with a valid JSON object matching this schema exactly:
 {

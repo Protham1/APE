@@ -1,7 +1,7 @@
 {
-  "original_query": "write me an email for my office",
-  "task_type": "email_gen",
-  "confidence": 0.95,
-  "reasoning": "The user is requesting assistance in composing an email for their office.",
-  "clean_query": "Write me an email for my office."
+  "original_query": "check this email: please send report",
+  "task_type": "email_eval",
+  "confidence": 0.9,
+  "reasoning": "The user is asking to evaluate an email, which involves reviewing its content.",
+  "clean_query": "Check this email: please send report."
 }
