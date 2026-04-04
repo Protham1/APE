@@ -1,7 +1,15 @@
 {
+<<<<<<< HEAD
   "original_query": "Write an email about what is 1+1",
   "task_type": "email_gen",
   "confidence": 0.9,
   "reasoning": "The user is requesting to write an email, even though the content is a simple math question.",
   "clean_query": "Write an email about what is 1+1."
+=======
+  "original_query": "check this email: please send report",
+  "task_type": "email_eval",
+  "confidence": 0.9,
+  "reasoning": "The user is asking to evaluate an email, which involves reviewing its content.",
+  "clean_query": "Check this email: please send report."
+>>>>>>> refs/remotes/origin/master
 }
