@@ -1,142 +1,53 @@
 [
-  {
-    "id": 1,
-    "difficulty": "easy",
-    "topic": "arithmetic",
-    "question": "A shopkeeper has 240 apples. He sells 3/4 of them and then receives a new shipment of 80 apples. How many apples does he have now?",
-    "answer": 140
-  },
-  {
-    "id": 2,
-    "difficulty": "easy",
-    "topic": "arithmetic",
-    "question": "A train travels at 60 km/h. How far does it travel in 2 hours and 30 minutes?",
-    "answer": 150
-  },
-  {
-    "id": 3,
-    "difficulty": "easy",
-    "topic": "arithmetic",
-    "question": "A rectangle has a length of 12 cm and a width of 7 cm. What is its perimeter?",
-    "answer": 38
-  },
-  {
-    "id": 4,
-    "difficulty": "easy",
-    "topic": "algebra",
-    "question": "Solve for x: 3x + 7 = 22",
-    "answer": 5
-  },
-  {
-    "id": 5,
-    "difficulty": "easy",
-    "topic": "probability",
-    "question": "A bag contains 4 red balls and 6 blue balls. What is the probability of picking a red ball? Express as a decimal.",
-    "answer": 0.4
-  },
-  {
-    "id": 6,
-    "difficulty": "medium",
-    "topic": "arithmetic",
-    "question": "A store is having a 30% off sale. After the discount, a jacket costs $84. What was the original price of the jacket?",
-    "answer": 120
-  },
-  {
-    "id": 7,
-    "difficulty": "medium",
-    "topic": "arithmetic",
-    "question": "Two pipes can fill a tank. Pipe A fills it in 6 hours, Pipe B fills it in 4 hours. How many hours will it take to fill the tank if both pipes are open simultaneously?",
-    "answer": 2.4
-  },
-  {
-    "id": 8,
-    "difficulty": "medium",
-    "topic": "algebra",
-    "question": "Solve for x: 2x² - 8 = 0. Give the positive value of x.",
-    "answer": 2
-  },
-  {
-    "id": 9,
-    "difficulty": "medium",
-    "topic": "algebra",
-    "question": "If f(x) = 3x² - 2x + 1, what is f(4)?",
-    "answer": 41
-  },
-  {
-    "id": 10,
-    "difficulty": "medium",
-    "topic": "algebra",
-    "question": "A system of equations: 2x + 3y = 12 and x - y = 1. What is the value of x?",
-    "answer": 3
-  },
-  {
-    "id": 11,
-    "difficulty": "medium",
-    "topic": "probability",
-    "question": "A fair six-sided die is rolled twice. What is the probability of getting a sum of 9? Express as a fraction in decimal form.",
-    "answer": 0.1111
-  },
-  {
-    "id": 12,
-    "difficulty": "medium",
-    "topic": "probability",
-    "question": "In a class of 30 students, 18 play cricket and 15 play football. 10 play both. How many students play neither sport?",
-    "answer": 7
-  },
-  {
-    "id": 13,
-    "difficulty": "medium",
-    "topic": "arithmetic",
-    "question": "A car depreciates in value by 15% each year. If it is currently worth $20,000, what will it be worth after 2 years? Round to the nearest dollar.",
-    "answer": 14450
-  },
-  {
-    "id": 14,
-    "difficulty": "medium",
-    "topic": "algebra",
-    "question": "The sum of three consecutive even integers is 78. What is the largest of the three integers?",
-    "answer": 28
-  },
-  {
-    "id": 15,
-    "difficulty": "medium",
-    "topic": "probability",
-    "question": "How many ways can a committee of 3 be chosen from a group of 8 people?",
-    "answer": 56
-  },
-  {
-    "id": 16,
-    "difficulty": "hard",
-    "topic": "algebra",
-    "question": "The roots of the equation x² - 5x + k = 0 are in the ratio 2:3. Find the value of k.",
-    "answer": 6
-  },
-  {
-    "id": 17,
-    "difficulty": "hard",
-    "topic": "arithmetic",
-    "question": "A boat travels 36 km upstream and 48 km downstream in the same amount of time. If the river current is 3 km/h, what is the speed of the boat in still water in km/h?",
-    "answer": 21
-  },
-  {
-    "id": 18,
-    "difficulty": "hard",
-    "topic": "probability",
-    "question": "A box has 5 red, 4 blue, and 3 green balls. Three balls are drawn at random without replacement. What is the probability that all three are different colors? Round to 4 decimal places.",
-    "answer": 0.2727
-  },
-  {
-    "id": 19,
-    "difficulty": "hard",
-    "topic": "probability",
-    "question": "In how many ways can the letters of the word MISSISSIPPI be arranged?",
-    "answer": 34650
-  },
-  {
-    "id": 20,
-    "difficulty": "hard",
-    "topic": "algebra",
-    "question": "If log(x) + log(x-3) = 1 (base 10), find the positive value of x.",
-    "answer": 5
-  }
+  {"id": 1, "difficulty": "medium", "topic": "arithmetic", "question": "A merchant buys goods at 25% discount on the marked price and sells them at 15% above the marked price. What is his profit percentage?", "answer": 53.33},
+  {"id": 2, "difficulty": "medium", "topic": "arithmetic", "question": "A sum of money doubles itself in 8 years at simple interest. What is the annual rate of interest?", "answer": 12.5},
+  {"id": 3, "difficulty": "medium", "topic": "arithmetic", "question": "Two cyclists start from the same point and ride in opposite directions. One rides at 18 km/h and the other at 22 km/h. After how many minutes will they be 20 km apart?", "answer": 30},
+  {"id": 4, "difficulty": "medium", "topic": "arithmetic", "question": "A tank is 3/5 full. After drawing off 30 litres it is 1/2 full. What is the total capacity of the tank in litres?", "answer": 150},
+  {"id": 5, "difficulty": "medium", "topic": "arithmetic", "question": "The price of sugar increases by 20%. By what percentage should a household reduce consumption so that expenditure remains the same? Round to 2 decimal places.", "answer": 16.67},
+  {"id": 6, "difficulty": "medium", "topic": "arithmetic", "question": "A can do a job in 12 days, B in 15 days, C in 20 days. All three work together for 2 days, then C leaves. In how many more days will A and B finish the remaining work?", "answer": 3},
+  {"id": 7, "difficulty": "medium", "topic": "arithmetic", "question": "A train 240 m long passes a pole in 12 seconds and passes a platform in 20 seconds. What is the length of the platform in metres?", "answer": 160},
+  {"id": 8, "difficulty": "medium", "topic": "arithmetic", "question": "The compound interest on a sum for 2 years at 10% per annum is $420. What is the simple interest on the same sum at the same rate for the same period?", "answer": 400},
+  {"id": 9, "difficulty": "medium", "topic": "arithmetic", "question": "Three numbers are in ratio 2:3:5. Their LCM is 300. What is the sum of the three numbers?", "answer": 100},
+  {"id": 10, "difficulty": "medium", "topic": "arithmetic", "question": "A mixture contains milk and water in ratio 5:1. If 12 litres of water is added, the ratio becomes 5:3. How many litres of milk is in the mixture?", "answer": 30},
+  {"id": 11, "difficulty": "medium", "topic": "algebra", "question": "If x + 1/x = 5, what is the value of x² + 1/x²?", "answer": 23},
+  {"id": 12, "difficulty": "medium", "topic": "algebra", "question": "The sum of a two-digit number and the number formed by reversing its digits is 110. The difference of the digits is 4. What is the smaller two-digit number?", "answer": 37},
+  {"id": 13, "difficulty": "medium", "topic": "algebra", "question": "If 2^x = 3^y = 6^z, what is the value of z in terms of x and y? If x=2 and y=1.585, find z. Round to 3 decimal places.", "answer": 1.0},
+  {"id": 14, "difficulty": "medium", "topic": "algebra", "question": "The ages of A and B are in the ratio 3:5. After 10 years the ratio will be 5:7. What is the present age of B?", "answer": 25},
+  {"id": 15, "difficulty": "medium", "topic": "algebra", "question": "A quadratic equation x² - px + q = 0 has roots 3 and 5. What is the value of p² - 4q?", "answer": 4},
+  {"id": 16, "difficulty": "medium", "topic": "algebra", "question": "Find the value of k if the lines 3x + 4y = 12 and kx - 3y = 9 are perpendicular to each other.", "answer": 4},
+  {"id": 17, "difficulty": "medium", "topic": "algebra", "question": "The sum of first n natural numbers is 820. Find n.", "answer": 40},
+  {"id": 18, "difficulty": "medium", "topic": "algebra", "question": "If log₂(x) + log₂(x-6) = 4, what is the value of x?", "answer": 8},
+  {"id": 19, "difficulty": "medium", "topic": "algebra", "question": "A geometric series has first term 3 and common ratio 2. What is the sum of the first 8 terms?", "answer": 765},
+  {"id": 20, "difficulty": "medium", "topic": "algebra", "question": "Solve: |2x - 7| = 11. What is the positive value of x?", "answer": 9},
+  {"id": 21, "difficulty": "medium", "topic": "probability", "question": "From a deck of 52 cards, two cards are drawn at random without replacement. What is the probability both are aces? Round to 4 decimal places.", "answer": 0.0045},
+  {"id": 22, "difficulty": "medium", "topic": "probability", "question": "A dice is rolled 4 times. What is the probability of getting exactly two sixes? Round to 4 decimal places.", "answer": 0.1157},
+  {"id": 23, "difficulty": "medium", "topic": "probability", "question": "In a group of 70 people, 40 like coffee, 35 like tea, and 25 like both. How many like neither?", "answer": 20},
+  {"id": 24, "difficulty": "medium", "topic": "probability", "question": "How many 4-digit numbers can be formed using digits 1-7 with no digit repeated and the number must be even?", "answer": 480},
+  {"id": 25, "difficulty": "medium", "topic": "probability", "question": "Two cards are drawn from a standard deck. What is the probability that both are of the same suit? Round to 4 decimal places.", "answer": 0.2353},
+
+  {"id": 26, "difficulty": "hard", "topic": "arithmetic", "question": "A boat goes 30 km upstream in 3 hours and 28 km downstream in 2 hours. What is the speed of the stream in km/h?", "answer": 2},
+  {"id": 27, "difficulty": "hard", "topic": "arithmetic", "question": "Two alloys contain gold and silver in ratios 3:7 and 7:3 respectively. In what ratio should they be mixed so that the resulting alloy has gold and silver in equal proportions?", "answer": 1},
+  {"id": 28, "difficulty": "hard", "topic": "arithmetic", "question": "A shopkeeper mixes two varieties of tea worth $12/kg and $18/kg in ratio 5:3. He sells the mixture at $17.60/kg. What is his profit percentage? Round to 2 decimal places.", "answer": 10.0},
+  {"id": 29, "difficulty": "hard", "topic": "arithmetic", "question": "The population of a city increases at 5% per year. If the present population is 4,41,000, what was the population 2 years ago?", "answer": 400000},
+  {"id": 30, "difficulty": "hard", "topic": "arithmetic", "question": "A, B and C can fill a tank in 10, 12 and 15 hours respectively. A and B fill for 3 hours, then A leaves. B and C together fill the rest. How many total hours does it take to fill the tank completely? Round to 2 decimal places.", "answer": 6.5},
+  {"id": 31, "difficulty": "hard", "topic": "arithmetic", "question": "A sum is split into two parts. The first part is invested at 8% simple interest and the second at 10% simple interest. After 2 years the total interest is $840. The interest from the second part is twice that from the first. What is the total sum invested?", "answer": 3000},
+  {"id": 32, "difficulty": "hard", "topic": "arithmetic", "question": "A car and a bus start from cities A and B simultaneously towards each other. The car travels at 60 km/h and the bus at 40 km/h. After they meet, the car takes 2.25 hours more to reach B. How far apart are the cities in km?", "answer": 300},
+  {"id": 33, "difficulty": "hard", "topic": "arithmetic", "question": "Three pipes A, B and C can fill a cistern in 6, 9 and 12 hours respectively. All are opened together. After 2 hours A is closed. After another hour B is closed. How long in total does it take to fill the cistern? Round to 2 decimal places.", "answer": 5.5},
+  {"id": 34, "difficulty": "hard", "topic": "arithmetic", "question": "A man earns $800 in January, increases by $80 each month. What is the total amount earned in the entire year?", "answer": 14880},
+  {"id": 35, "difficulty": "hard", "topic": "arithmetic", "question": "Two trains of lengths 150m and 250m run on parallel tracks. When running in the same direction the faster train passes the slower one in 40 seconds. When running in opposite directions they pass each other in 10 seconds. Find the speed of the faster train in m/s.", "answer": 25},
+  {"id": 36, "difficulty": "hard", "topic": "algebra", "question": "If α and β are roots of 2x² - 5x + 3 = 0, find the equation whose roots are α/β and β/α. What is the coefficient of x in the new equation if the leading coefficient is 6?", "answer": -13},
+  {"id": 37, "difficulty": "hard", "topic": "algebra", "question": "Find the number of real solutions of the equation x⁴ - 5x² + 4 = 0.", "answer": 4},
+  {"id": 38, "difficulty": "hard", "topic": "algebra", "question": "The sum of first n terms of an AP is 5n² + 3n. What is the 20th term?", "answer": 201},  
+  {"id": 39, "difficulty": "hard", "topic": "algebra", "question": "If x = 2 + √3, find the value of x³ - 2x² - 7x + 5.", "answer": 1},
+  {"id": 40, "difficulty": "hard", "topic": "algebra", "question": "A cubic equation x³ - 6x² + 11x - 6 = 0 has roots a, b, c. Find the value of a² + b² + c².", "answer": 14},
+  {"id": 41, "difficulty": "hard", "topic": "algebra", "question": "Solve the system: x + y + z = 6, x + 2y + 3z = 14, x + 3y + 5z = 20. What is the value of xyz?", "answer": 6},
+  {"id": 42, "difficulty": "hard", "topic": "algebra", "question": "The remainder when x³ + 2x² - 5x + 7 is divided by (x - 2) is what value?", "answer": 13},
+  {"id": 43, "difficulty": "hard", "topic": "algebra", "question": "If log(2) = 0.3010, how many digits does 2^50 have?", "answer": 16},
+  {"id": 44, "difficulty": "hard", "topic": "algebra", "question": "Find the sum of all integers from 1 to 200 that are divisible by neither 3 nor 5.", "answer": 10867},
+  {"id": 45, "difficulty": "hard", "topic": "algebra", "question": "In an arithmetic progression, the 5th term is 17 and the 9th term is 29. What is the sum of the first 20 terms?", "answer": 610},
+  {"id": 46, "difficulty": "hard", "topic": "probability", "question": "A committee of 5 is to be formed from 6 men and 4 women such that at least 2 women are included. How many such committees are possible?", "answer": 186},
+  {"id": 47, "difficulty": "hard", "topic": "probability", "question": "A bag contains 5 white and 4 black balls. Three balls are drawn one by one without replacement. What is the probability that all three are white? Round to 4 decimal places.", "answer": 0.1190},
+  {"id": 48, "difficulty": "hard", "topic": "probability", "question": "In how many ways can 8 people be seated at a circular table such that 2 specific people are never adjacent?", "answer": 3600},
+  {"id": 49, "difficulty": "hard", "topic": "probability", "question": "A speaks truth 3/4 of the times and B speaks truth 4/5 of the times. What is the probability they contradict each other? Round to 4 decimal places.", "answer": 0.35},
+  {"id": 50, "difficulty": "hard", "topic": "probability", "question": "From 6 programmers and 4 designers, a team of 5 must have more programmers than designers. How many such teams are possible?", "answer": 186}
 ]
