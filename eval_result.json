@@ -1,185 +1,425 @@
 {
-  "prompt": "You are a math olympiad expert, think step by step",
-  "score": 0.95,
-  "correct": 19,
-  "total": 20,
+  "prompt": "You are a math tutor. Approach each problem by breaking it down into smaller, manageable steps and explaining your reasoning clearly.",
+  "score": 0.54,
+  "correct": 27,
+  "total": 50,
   "breakdown": {
     "easy": {
-      "correct": 5,
-      "total": 5,
-      "score": 1.0
+      "correct": 0,
+      "total": 0,
+      "score": 0
     },
     "medium": {
-      "correct": 10,
-      "total": 10,
-      "score": 1.0
+      "correct": 17,
+      "total": 25,
+      "score": 0.68
     },
     "hard": {
-      "correct": 4,
-      "total": 5,
-      "score": 0.8
+      "correct": 10,
+      "total": 25,
+      "score": 0.4
     }
   },
   "results": [
     {
       "id": 1,
-      "difficulty": "easy",
+      "difficulty": "medium",
       "topic": "arithmetic",
-      "expected": 140,
-      "predicted": 140.0,
+      "expected": 53.33,
+      "predicted": 53.33,
       "correct": true
     },
     {
       "id": 2,
-      "difficulty": "easy",
+      "difficulty": "medium",
       "topic": "arithmetic",
-      "expected": 150,
-      "predicted": 150.0,
+      "expected": 12.5,
+      "predicted": 12.5,
       "correct": true
     },
     {
       "id": 3,
-      "difficulty": "easy",
+      "difficulty": "medium",
       "topic": "arithmetic",
-      "expected": 38,
-      "predicted": 38.0,
+      "expected": 30,
+      "predicted": 30.0,
       "correct": true
     },
     {
       "id": 4,
-      "difficulty": "easy",
-      "topic": "algebra",
-      "expected": 5,
-      "predicted": 5.0,
-      "correct": true
+      "difficulty": "medium",
+      "topic": "arithmetic",
+      "expected": 150,
+      "predicted": 300.0,
+      "correct": false
     },
     {
       "id": 5,
-      "difficulty": "easy",
-      "topic": "probability",
-      "expected": 0.4,
-      "predicted": 0.4,
-      "correct": true
+      "difficulty": "medium",
+      "topic": "arithmetic",
+      "expected": 16.67,
+      "predicted": null,
+      "correct": false
     },
     {
       "id": 6,
       "difficulty": "medium",
       "topic": "arithmetic",
-      "expected": 120,
-      "predicted": 120.0,
-      "correct": true
+      "expected": 3,
+      "predicted": null,
+      "correct": false
     },
     {
       "id": 7,
       "difficulty": "medium",
       "topic": "arithmetic",
-      "expected": 2.4,
-      "predicted": 2.4,
+      "expected": 160,
+      "predicted": 160.0,
       "correct": true
     },
     {
       "id": 8,
       "difficulty": "medium",
-      "topic": "algebra",
-      "expected": 2,
-      "predicted": 2.0,
-      "correct": true
+      "topic": "arithmetic",
+      "expected": 400,
+      "predicted": 200.0,
+      "correct": false
     },
     {
       "id": 9,
       "difficulty": "medium",
-      "topic": "algebra",
-      "expected": 41,
-      "predicted": 41.0,
+      "topic": "arithmetic",
+      "expected": 100,
+      "predicted": 100.0,
       "correct": true
     },
     {
       "id": 10,
       "difficulty": "medium",
-      "topic": "algebra",
-      "expected": 3,
-      "predicted": 3.0,
+      "topic": "arithmetic",
+      "expected": 30,
+      "predicted": 30.0,
       "correct": true
     },
     {
       "id": 11,
       "difficulty": "medium",
-      "topic": "probability",
-      "expected": 0.1111,
-      "predicted": 0.1111,
+      "topic": "algebra",
+      "expected": 23,
+      "predicted": 23.0,
       "correct": true
     },
     {
       "id": 12,
       "difficulty": "medium",
-      "topic": "probability",
-      "expected": 7,
-      "predicted": 7.0,
+      "topic": "algebra",
+      "expected": 37,
+      "predicted": 37.0,
       "correct": true
     },
     {
       "id": 13,
       "difficulty": "medium",
-      "topic": "arithmetic",
-      "expected": 14450,
-      "predicted": 14450.0,
-      "correct": true
+      "topic": "algebra",
+      "expected": 1.0,
+      "predicted": null,
+      "correct": false
     },
     {
       "id": 14,
       "difficulty": "medium",
       "topic": "algebra",
-      "expected": 28,
-      "predicted": 28.0,
+      "expected": 25,
+      "predicted": 25.0,
       "correct": true
     },
     {
       "id": 15,
       "difficulty": "medium",
-      "topic": "probability",
-      "expected": 56,
-      "predicted": 56.0,
+      "topic": "algebra",
+      "expected": 4,
+      "predicted": 4.0,
       "correct": true
     },
     {
       "id": 16,
-      "difficulty": "hard",
+      "difficulty": "medium",
       "topic": "algebra",
-      "expected": 6,
-      "predicted": 6.0,
+      "expected": 4,
+      "predicted": 4.0,
       "correct": true
     },
     {
       "id": 17,
-      "difficulty": "hard",
-      "topic": "arithmetic",
-      "expected": 21,
-      "predicted": 21.0,
+      "difficulty": "medium",
+      "topic": "algebra",
+      "expected": 40,
+      "predicted": 40.0,
       "correct": true
     },
     {
       "id": 18,
-      "difficulty": "hard",
-      "topic": "probability",
-      "expected": 0.2727,
-      "predicted": 0.2727,
-      "correct": true
-    },
-    {
-      "id": 19,
-      "difficulty": "hard",
-      "topic": "probability",
-      "expected": 34650,
-      "predicted": 6930.0,
+      "difficulty": "medium",
+      "topic": "algebra",
+      "expected": 8,
+      "predicted": null,
       "correct": false
     },
     {
+      "id": 19,
+      "difficulty": "medium",
+      "topic": "algebra",
+      "expected": 765,
+      "predicted": 765.0,
+      "correct": true
+    },
+    {
       "id": 20,
+      "difficulty": "medium",
+      "topic": "algebra",
+      "expected": 9,
+      "predicted": 9.0,
+      "correct": true
+    },
+    {
+      "id": 21,
+      "difficulty": "medium",
+      "topic": "probability",
+      "expected": 0.0045,
+      "predicted": 0.0045,
+      "correct": true
+    },
+    {
+      "id": 22,
+      "difficulty": "medium",
+      "topic": "probability",
+      "expected": 0.1157,
+      "predicted": null,
+      "correct": false
+    },
+    {
+      "id": 23,
+      "difficulty": "medium",
+      "topic": "probability",
+      "expected": 20,
+      "predicted": 20.0,
+      "correct": true
+    },
+    {
+      "id": 24,
+      "difficulty": "medium",
+      "topic": "probability",
+      "expected": 480,
+      "predicted": 360.0,
+      "correct": false
+    },
+    {
+      "id": 25,
+      "difficulty": "medium",
+      "topic": "probability",
+      "expected": 0.2353,
+      "predicted": 0.2353,
+      "correct": true
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "topic": "arithmetic",
+      "expected": 2,
+      "predicted": 2.0,
+      "correct": true
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "topic": "arithmetic",
+      "expected": 1,
+      "predicted": 1.0,
+      "correct": true
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "topic": "arithmetic",
+      "expected": 10.0,
+      "predicted": 23.51,
+      "correct": false
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "topic": "arithmetic",
+      "expected": 400000,
+      "predicted": 400000.0,
+      "correct": true
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "topic": "arithmetic",
+      "expected": 6.5,
+      "predicted": null,
+      "correct": false
+    },
+    {
+      "id": 31,
+      "difficulty": "hard",
+      "topic": "arithmetic",
+      "expected": 3000,
+      "predicted": 4550.0,
+      "correct": false
+    },
+    {
+      "id": 32,
+      "difficulty": "hard",
+      "topic": "arithmetic",
+      "expected": 300,
+      "predicted": 337.5,
+      "correct": false
+    },
+    {
+      "id": 33,
+      "difficulty": "hard",
+      "topic": "arithmetic",
+      "expected": 5.5,
+      "predicted": null,
+      "correct": false
+    },
+    {
+      "id": 34,
+      "difficulty": "hard",
+      "topic": "arithmetic",
+      "expected": 14880,
+      "predicted": 14840.0,
+      "correct": false
+    },
+    {
+      "id": 35,
+      "difficulty": "hard",
+      "topic": "arithmetic",
+      "expected": 25,
+      "predicted": 21.875,
+      "correct": false
+    },
+    {
+      "id": 36,
       "difficulty": "hard",
       "topic": "algebra",
-      "expected": 5,
-      "predicted": 5.0,
+      "expected": -13,
+      "predicted": null,
+      "correct": false
+    },
+    {
+      "id": 37,
+      "difficulty": "hard",
+      "topic": "algebra",
+      "expected": 4,
+      "predicted": 4.0,
       "correct": true
+    },
+    {
+      "id": 38,
+      "difficulty": "hard",
+      "topic": "algebra",
+      "expected": 201,
+      "predicted": 198.0,
+      "correct": false
+    },
+    {
+      "id": 39,
+      "difficulty": "hard",
+      "topic": "algebra",
+      "expected": 1,
+      "predicted": null,
+      "correct": false
+    },
+    {
+      "id": 40,
+      "difficulty": "hard",
+      "topic": "algebra",
+      "expected": 14,
+      "predicted": 14.0,
+      "correct": true
+    },
+    {
+      "id": 41,
+      "difficulty": "hard",
+      "topic": "algebra",
+      "expected": 6,
+      "predicted": null,
+      "correct": false
+    },
+    {
+      "id": 42,
+      "difficulty": "hard",
+      "topic": "algebra",
+      "expected": 13,
+      "predicted": 13.0,
+      "correct": true
+    },
+    {
+      "id": 43,
+      "difficulty": "hard",
+      "topic": "algebra",
+      "expected": 16,
+      "predicted": 16.0,
+      "correct": true
+    },
+    {
+      "id": 44,
+      "difficulty": "hard",
+      "topic": "algebra",
+      "expected": 10867,
+      "predicted": null,
+      "correct": false
+    },
+    {
+      "id": 45,
+      "difficulty": "hard",
+      "topic": "algebra",
+      "expected": 610,
+      "predicted": 670.0,
+      "correct": false
+    },
+    {
+      "id": 46,
+      "difficulty": "hard",
+      "topic": "probability",
+      "expected": 186,
+      "predicted": null,
+      "correct": false
+    },
+    {
+      "id": 47,
+      "difficulty": "hard",
+      "topic": "probability",
+      "expected": 0.119,
+      "predicted": 0.119,
+      "correct": true
+    },
+    {
+      "id": 48,
+      "difficulty": "hard",
+      "topic": "probability",
+      "expected": 3600,
+      "predicted": 3600.0,
+      "correct": true
+    },
+    {
+      "id": 49,
+      "difficulty": "hard",
+      "topic": "probability",
+      "expected": 0.35,
+      "predicted": 0.35,
+      "correct": true
+    },
+    {
+      "id": 50,
+      "difficulty": "hard",
+      "topic": "probability",
+      "expected": 186,
+      "predicted": null,
+      "correct": false
     }
   ]
 }
