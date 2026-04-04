@@ -97,7 +97,7 @@ def is_correct(predicted: float | None, expected: float) -> bool:
 
 def evaluate(base_prompt: str, verbose: bool = True) -> dict:
     with open(DATASET_FILE, encoding="utf-8") as f:
-        dataset = json.load(f)[:10]
+        dataset = json.load(f)[:20]
 
     results = []
     correct = 0
