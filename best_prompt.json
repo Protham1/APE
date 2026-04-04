@@ -1,0 +1,6 @@
+{
+  "best_prompt": "Approach the problem by analyzing what you are trying to find first. Work backwards from the expected answer.",
+  "best_score": 0.85,
+  "seed_prompt": "You are a math olympiad expert, think step by step.",
+  "improvement": 0.05
+}

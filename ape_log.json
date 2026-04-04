@@ -1,0 +1,265 @@
+[
+  {
+    "generation": 0,
+    "type": "seed",
+    "prompt": "You are a math olympiad expert, think step by step.",
+    "score": 0.8,
+    "breakdown": {
+      "easy": {
+        "correct": 0,
+        "total": 0,
+        "score": 0
+      },
+      "medium": {
+        "correct": 16,
+        "total": 20,
+        "score": 0.8
+      },
+      "hard": {
+        "correct": 0,
+        "total": 0,
+        "score": 0
+      }
+    }
+  },
+  {
+    "generation": 1,
+    "type": "mutation",
+    "mutation": 1,
+    "prompt": "You are a math tutor. Explain each step clearly as you solve the problem, ensuring you understand the arithmetic involved.",
+    "score": 0.75,
+    "breakdown": {
+      "easy": {
+        "correct": 0,
+        "total": 0,
+        "score": 0
+      },
+      "medium": {
+        "correct": 15,
+        "total": 20,
+        "score": 0.75
+      },
+      "hard": {
+        "correct": 0,
+        "total": 0,
+        "score": 0
+      }
+    }
+  },
+  {
+    "generation": 1,
+    "type": "mutation",
+    "mutation": 2,
+    "prompt": "Approach the problem by analyzing what you are trying to find first. Work backwards from the expected answer.",
+    "score": 0.85,
+    "breakdown": {
+      "easy": {
+        "correct": 0,
+        "total": 0,
+        "score": 0
+      },
+      "medium": {
+        "correct": 17,
+        "total": 20,
+        "score": 0.85
+      },
+      "hard": {
+        "correct": 0,
+        "total": 0,
+        "score": 0
+      }
+    }
+  },
+  {
+    "generation": 1,
+    "type": "mutation",
+    "mutation": 3,
+    "prompt": "When solving arithmetic and algebra problems, state any assumptions you are making before proceeding with the calculations.",
+    "score": 0.85,
+    "breakdown": {
+      "easy": {
+        "correct": 0,
+        "total": 0,
+        "score": 0
+      },
+      "medium": {
+        "correct": 17,
+        "total": 20,
+        "score": 0.85
+      },
+      "hard": {
+        "correct": 0,
+        "total": 0,
+        "score": 0
+      }
+    }
+  },
+  {
+    "generation": 1,
+    "type": "mutation",
+    "mutation": 4,
+    "prompt": "Label each step of your solution clearly, especially when working through arithmetic operations and algebraic manipulations.",
+    "score": 0.8,
+    "breakdown": {
+      "easy": {
+        "correct": 0,
+        "total": 0,
+        "score": 0
+      },
+      "medium": {
+        "correct": 16,
+        "total": 20,
+        "score": 0.8
+      },
+      "hard": {
+        "correct": 0,
+        "total": 0,
+        "score": 0
+      }
+    }
+  },
+  {
+    "generation": 1,
+    "type": "mutation",
+    "mutation": 5,
+    "prompt": "You are a math competition coach. Break down each problem into manageable parts, and identify common traps that might lead to incorrect answers.",
+    "score": 0.75,
+    "breakdown": {
+      "easy": {
+        "correct": 0,
+        "total": 0,
+        "score": 0
+      },
+      "medium": {
+        "correct": 15,
+        "total": 20,
+        "score": 0.75
+      },
+      "hard": {
+        "correct": 0,
+        "total": 0,
+        "score": 0
+      }
+    }
+  },
+  {
+    "generation": 2,
+    "type": "mutation",
+    "mutation": 1,
+    "prompt": "As a math tutor, focus on clarifying the problem before solving. Break down each step and explain your thought process clearly.",
+    "score": 0.7,
+    "breakdown": {
+      "easy": {
+        "correct": 0,
+        "total": 0,
+        "score": 0
+      },
+      "medium": {
+        "correct": 14,
+        "total": 20,
+        "score": 0.7
+      },
+      "hard": {
+        "correct": 0,
+        "total": 0,
+        "score": 0
+      }
+    }
+  },
+  {
+    "generation": 2,
+    "type": "mutation",
+    "mutation": 2,
+    "prompt": "Adopt a reasoning style that involves verifying your answer at each stage. Check your calculations and logic thoroughly.",
+    "score": 0.85,
+    "breakdown": {
+      "easy": {
+        "correct": 0,
+        "total": 0,
+        "score": 0
+      },
+      "medium": {
+        "correct": 17,
+        "total": 20,
+        "score": 0.85
+      },
+      "hard": {
+        "correct": 0,
+        "total": 0,
+        "score": 0
+      }
+    }
+  },
+  {
+    "generation": 2,
+    "type": "mutation",
+    "mutation": 3,
+    "prompt": "When working on arithmetic and algebra, ensure you identify key operations and relationships in the equations before proceeding.",
+    "score": 0.85,
+    "breakdown": {
+      "easy": {
+        "correct": 0,
+        "total": 0,
+        "score": 0
+      },
+      "medium": {
+        "correct": 17,
+        "total": 20,
+        "score": 0.85
+      },
+      "hard": {
+        "correct": 0,
+        "total": 0,
+        "score": 0
+      }
+    }
+  },
+  {
+    "generation": 2,
+    "type": "mutation",
+    "mutation": 4,
+    "prompt": "Structure your response by labeling each step clearly. Start with assumptions, then outline the problem, followed by your calculations.",
+    "score": 0.8,
+    "breakdown": {
+      "easy": {
+        "correct": 0,
+        "total": 0,
+        "score": 0
+      },
+      "medium": {
+        "correct": 16,
+        "total": 20,
+        "score": 0.8
+      },
+      "hard": {
+        "correct": 0,
+        "total": 0,
+        "score": 0
+      }
+    }
+  },
+  {
+    "generation": 2,
+    "type": "mutation",
+    "mutation": 5,
+    "prompt": "Combine the thoroughness of a tutor with a verification style. Clearly label your steps and check each calculation against the expected outcomes.",
+    "score": 0.65,
+    "breakdown": {
+      "easy": {
+        "correct": 0,
+        "total": 0,
+        "score": 0
+      },
+      "medium": {
+        "correct": 13,
+        "total": 20,
+        "score": 0.65
+      },
+      "hard": {
+        "correct": 0,
+        "total": 0,
+        "score": 0
+      }
+    }
+  }
+]
