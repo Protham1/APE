@@ -96,7 +96,7 @@ def is_correct(predicted: float | None, expected: float) -> bool:
 # ── Main Evaluator ────────────────────────────────────────────────────────────
 
 def evaluate(base_prompt: str, verbose: bool = True) -> dict:
-    with open(DATASET_FILE) as f:
+    with open(DATASET_FILE, encoding="utf-8") as f:
         dataset = json.load(f)
 
     results = []
