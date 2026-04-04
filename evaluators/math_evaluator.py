@@ -29,8 +29,8 @@ load_dotenv()
 
 SOLVER_MODEL    = "gpt-4o-mini"
 EXTRACTOR_MODEL = "gpt-4o-mini"
-DATASET_FILE    = "math_dataset.json"
-OUTPUT_FILE     = "eval_result.json"
+DATASET_FILE    = "JSON\math_dataset.json"
+OUTPUT_FILE     = "JSON\eval_result.json"
 TOLERANCE       = 0.01
 
 # This suffix is appended to EVERY prompt — APE mutations should not change this

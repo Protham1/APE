@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 MODEL       = "gpt-4o-mini"
-OUTPUT_FILE = "email_eval.json"
+OUTPUT_FILE = "JSON\email_eval.json"
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
